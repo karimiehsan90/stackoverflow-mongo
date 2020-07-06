@@ -1,0 +1,1537 @@
+[
+  {
+    "topics": " Graph Data Mining,  Pregel,  Bulk Synchronous Parallel Computing,  Distributed Systems,  Big Data,  Google (company)", 
+    "question": "What are the main concepts behind Google's Pregel?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can we build a UIMA style Analysis engine using Python?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Homemade Items,  Do It Yourself (DIY),  Computers", 
+    "question": "How can I make a homemade supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " SpaCy (spacy.io),  Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language),  Machine Learning,  List Question", 
+    "question": "What are good alternatives to NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Parts of Speech,  Classification (machine learning),  Natural Language Processing,  Machine Learning", 
+    "question": "What is the most efficient technique to do POS 'Part Of Speech' extraction?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Raspberry Pi,  Electronics,  Computers", 
+    "question": "Why doesn\u2019t someone make a way to connect 15 or 20 Raspberry Pi computers to make one cheap mini-supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Symmetric Multiprocessor Systems,  Simultaneity (physics),  Processor Architecture,  Processor Cache Design,  Concurrency (computer science),  Computer Architecture,  Random-Access Memory,  Central Processing Units", 
+    "question": "What happens when two CPU cores require write access to the same memory address at the same exact moment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Social Media Analytics,  Social Media Monitoring and Support,  Sentiment Analysis,  Social Media Management,  Social Media Marketing,  Social Media", 
+    "question": "Is there a free online sentiment analysis service for Social Media accounts?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "If Intel or AMD were to receive the same budget as a high-end supercomputer and use it to make one CPU, how powerful could they make it? (They don't need to make tons, only one)", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "What sentiment analysis applications do marketers use for branding campaigns and why?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "How do I create my own data set for sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the (open and commercial) available APIs for NLP (Natural Language Processing)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Natural Language Toolkit (NLTK): What is the best\u00a0 POS tagger to translate 'ran' to 'run', 'was' to 'be'?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  NoSQL,  Relational Databases,  MySQL,  Database Systems", 
+    "question": "Are NoSQL databases better than MySQL databases for sentiment analysis projects? How is one better other when it comes to keeping semantic relations?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What datasets can be used for sentiment analysis regression?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Critical Analysis,  Sentiment Analysis", 
+    "question": "How is sentiment analysis different from critical analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiments,  Sentiment Analysis", 
+    "question": "Why are anti-trans sentiments being expressed as concern for child welfare?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is there any algorithm for sentiment analysis on emoticons?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computers", 
+    "question": "Where would someone buy a supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why are there such strong anti-Catholic sentiments on Quora? Who is teaching anti-Catholic hate?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Are you able to use a GPU as a computer without a CPU?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Naive Bayes,  Bayesian Inference,  Classification (machine learning),  Machine Learning", 
+    "question": "Can NLTK be used for multinomial Naive Bayes classification?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Learning About Molecular Biology,  Supercomputers,  High Performance Computing,  Simulation,  Molecular Biology,  Computer Science,  Human Biology", 
+    "question": "When would it be possible to simulate a human at molecular level?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Indico,  Open APIs,  Text Mining,  Semantic Web,  Sentiment Analysis,  Natural Language Processing,  Application Programming Interfaces (API),  Analytics", 
+    "question": "What is the best text analytics API and service?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the difference between lock-free and wait-free concurrency?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Seymour Cray,  Supercomputers,  Electrical Engineers", 
+    "question": "Who was Seymour Cray? How did he invented the supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "Natural Language Processing: What are good algorithms related to sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Twitter (product),  Job Interview Questions,  Interviews,  Algorithms,  Computer Science,  Machine Learning,  Job Interviews", 
+    "question": "What questions can be asked in interview on the project of Sentiment Analysis of Twitter?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " SpaCy (spacy.io),  Natural Language Toolkit (NLTK),  Natural Language Processing", 
+    "question": "Should I use spaCy instead of NLTK? I am kind of skeptical because I am new in the NLP domain and spaCy is still at a nascent stage and its community is still small.", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Voice of the Customer,  Sentiment Analysis,  Customer Relationship Management (CRM) ", 
+    "question": "What is the best sentiment and text analytics software for a Voice of the Customer (VOC) program?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Data Mining", 
+    "question": "How can I extract positive and negative words?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I include word ordering, and negation of words to improve my Sentiment Analysis classifier?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "How is sentiment analysis currently being refined to improve accuracy?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Has NLTK already been used for automatic scoring of papers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Keyphrase Extraction,  Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language)", 
+    "question": "What is the best implemention of keyphrase extraction in python?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Bitcoin Mining,  Quantum Computing,  Virtual Currencies,  Bitcoin,  Cryptocurrencies", 
+    "question": "Can today's supercomputers crack Bitcoin?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Twitter Streaming API,  Sentiment Analysis,  Twitter (product),  How-to Question", 
+    "question": "How do I perform Twitter sentiment analysis on multiple topics?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " TextBlob,  Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language),  Text Messaging", 
+    "question": "What is the use of NLTK and TextBlob? What is the difference between both? And for text analysis which tool is better?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Performance Testing,  Supercomputers,  Computers", 
+    "question": "How does a modern desktop or mobile phone compare to the famous supercomputers of the past?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Data Mining,  Machine Learning,  Personal Question", 
+    "question": "I have customer reviews on a product, pulled from Amazon. What all text mining techniques I can apply on the data, other than sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can I use WordNet or NLTK to find verbs associated with word 'airplane'?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the downsides of multi-threading?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are hot topics in parallel computing research?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Text Corpora,  Naive Bayes,  Sentiment Analysis,  Python 3,  Classification (machine learning),  Natural Language Processing,  Big Data,  Machine Learning", 
+    "question": "Which feature extraction is better for supervised learning sentiment analysis? ", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiments,  Sentiment Analysis,  Anti-Semitism,  Jewish Ethnicities and People,  Muslims,  Religion", 
+    "question": "How can one get rid of anti-Semitic sentiment from Muslim society?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Sentiment Analysis: Would it be useful to you to see which events might have an impact on the prices of your stocks?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  Computer Hardware", 
+    "question": "Why are GPUs so expensive?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Parallel Virtual Machine,  Open Multi-Processing,  Apache Flink,  Message Passing Interface (MPI),  Apache Spark,  Apache Hadoop,  Big Data,  Computer Programming", 
+    "question": "When do we use Hadoop, Spark, Flink, MPI, PVM, and OpenMP, and why?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Any one has read the book natural language processing in python? any comments?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Machine Learning: How do I classify phone call sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computer Science,  Computers,  Technology", 
+    "question": "What is name of the fastest super computer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  NVIDIA,  C++ (programming language),  Computer Hardware,  Computers", 
+    "question": "What is the best way to use GPU in C++?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How does Python NLTK process Chinese?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "When is better to use NLTK vs Sklearn vs Gensim?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I measure online reputation with social media's approaches such as number of engaged users, audience, virality, applauses, and sentiment analysis? Can we have a reputation score with that factor?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why are GPUs preferred over CPUs for heavy computation?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the difference between CPU and a GPU for parallel computing?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Computer Cluster,  Computer Science,  Computers", 
+    "question": "What is a computer cluster? What do they do?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "How do I start sentiment analysis project?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Java (programming language),  Machine Learning", 
+    "question": "Could anyone give me an example of using Stanford CoreNLP sentiment analysis with Java?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " WordNet,  Natural Language Toolkit (NLTK),  Dictionaries,  Natural Language Processing", 
+    "question": "Dictionaries: In WordNet, what's the difference between a sense and a lemma?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " TextBlob,  Natural Language Toolkit (NLTK),  Natural Language Processing", 
+    "question": "Is it possible to work with NLTK and TextBlob?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Projects", 
+    "question": "We have to make a project(fyp) on sentiment analysis using tweets. I have no idea where to start as I've no idea about this topic. Can someone suggest a road map which I can to follow?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Parallel Computing,  The Universe", 
+    "question": "Why does the Universe seem to \"revel in parallelism\"?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Linux,  Operating Systems", 
+    "question": "What is the logic behind using Linux in supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Question Answering Systems,  Natural Language Toolkit (NLTK),  Help Desks,  Natural Language Processing,  Machine Learning,  Software Engineering,  Software and Applications", 
+    "question": "What software exists for customer online self-help that will allow the customer to just enter a question in its natural language, and the software find articles answering that question from a database of hundreds of uncategorized help articles?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Concurrency (computer science),  Go (programming language),  Computer Programming", 
+    "question": "Where does Go's concurrency (CSP) fall short? What are some examples of concurrency problems that are significantly more difficult to express in Go compared to other concurrency models?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Does doing a PhD in sentiment analysis need high knowledge of Math?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Knowledge Bases,  Sentiment Analysis,  Comparisons,  Machine Learning", 
+    "question": "What is the difference between a knowledge based approach and machine learning approach for sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Central Processing Units,  Processors,  Computer Hardware,  Computers", 
+    "question": "What is the CPU speed of the most powerful supercomputer? Is it still limited to under 5 GHz?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis and Opinion Mining,  Sentiment Analysis", 
+    "question": "Is sentiment analysis a hot topic? I am planning to do final year project on sentiment analysis, is it a good topic?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the best computer to buy for encryption cracking?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How are grammar checkers programmed?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "Sentiment Analysis: A list of positive and negative bigrams?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Erlang (programming language),  Concurrency (computer science)", 
+    "question": "What's so special about an Erlang process?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the ways to detect whether a sentence makes meaningful sense if not grammatically?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can we quantify hate speech?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  TensorFlow (software library),  Overrated Things or People,  Deep Learning,  Computer Science,  Machine Learning", 
+    "question": "Is TensorFlow overrated? Does it deserve to be that much more popular than other frameworks?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some of the nuances of human language that make sentiment analysis on social media challenging?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  How Things Work,  Natural Language Processing,  Words", 
+    "question": "How does sentiment analysis work, generally?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I label the documents that will be used as training data for classification?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiments,  Sentiment Analysis,  Poland,  Nazism,  Nazi Germany", 
+    "question": "Why did the Nazis have an anti-Polish sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Hebrew (language),  Persian (language),  Natural Language Processing,  Machine Learning", 
+    "question": "I want a tweets dataset or text in Hebrew or Persian for a sentiment analysis project in college and I can't find any and I'm getting desperate?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Gmail,  Email", 
+    "question": "What tool do you recommend for Sentiment Analysis for inbound emails in Gmail?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Baltic Dry Index,  Shipping Industry,  Sentiment Analysis,  Shipping,  Stocks (finance)", 
+    "question": "Is the Baltic dry index affected by market sentiment like stocks?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "In a sentiment analysis, how can I get emotions from the story/paragraph related to any of the topics using NLP?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Twitter (product)", 
+    "question": "What are the best ways to improve a sentiment analysis classifier on Twitter data?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I train NLTK with other languages like Russian, Chinese, Malay?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Nuclear Weapons", 
+    "question": "What do nuclear weapon simulations look like on a supercomputer? Does it generate a video representation of a location and a nuclear explosion? Or is the output an array of charts, graphs, and data tables? Or is it something else?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the relation between sentiment analysis, natural language processing and machine learning?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  Computer Hardware", 
+    "question": "How can I use a GPU for any demanding applications for faster execution?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why are GPUs more powerful than CPUs?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What would happen if a supercomputer calculated pi out and discovered that it does end finitely?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " AI Chatbots,  Natural Language Toolkit (NLTK),  IBM Watson,  Chatbots and Conversational Agents,  Python (programming language),  Artificial Intelligence", 
+    "question": "I want to crate a chatbot which can also take answer some questions by directly getting data from my database, so should I use IBM Watson, Python NLTK or chatbot building company such as ubisend?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What was anti-Irish sentiment like during the years of The Troubles?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Sarcasm,  Artificial Intelligence,  Machine Learning", 
+    "question": "How do you think an intelligent machine would be able to detect sarcasm and irony during sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing", 
+    "question": "What are the advantages of having a supercomputer in your house?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why is there much less anti-European sentiment (specifically German economic clout in the EU) in France than in Britain?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "How can we do sentiment analysis for a movie review when we don't have a training data set?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  Graphics Cards,  Manufacturing,  Computer Hardware,  Computers", 
+    "question": "What difference does the manufacturer of a GPU make?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing", 
+    "question": "What is it like to work somewhere that has a supercomputer on the TOP500 list?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the best algorithm for named entity recognition? How hard is it to build this tool?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "In High Performance Computing what exactly is the difference between the terms \u201ccores,\u201d \u201cprocessors, \u201d \u201cnodes,\u201d and \u201cclusters\u201d?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I download NLTK data, and configure its directory structure manually?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Theoretically, how fast can a supercomputer be in the future? How would it compare to current supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Existence Question", 
+    "question": "Are there any tools for measuring sentiment & trending topics on internal microblog sites / RSS feeds?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How much does a 1000-core cluster cost?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is there any api to do sentiment analysis of image?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computer Hardware,  Computers,  Technology,  Hypothetical Scenarios", 
+    "question": "If money wasn't an issue, could you build a supercomputer in your home using parts from your local Best Buy, and have your machine benchmark so high that it makes it into the TOP500 supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Can Twitter sentiment analysis guide stock market investment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Does sentiment analysis classify text into emotional states?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiments,  Application Programming Interfaces (API)", 
+    "question": "What are the best services or APIs to measure sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Philippines: How does it feel if you are a relative of VP Binay and keep hearing all the negative sentiment against him?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the best super computer in the world?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Are there any free/inexpensive tools available to track Twitter mentions and ideally sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What is the future of sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Text Mining,  Sentiment Analysis", 
+    "question": "What are current commercial text analytics tools lacking?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Marc Ambinder,  Sentiment Analysis,  Voting,  Social Media", 
+    "question": "How has social media affected voter sentiment? What is \"negative partisanship\"?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How powerful is the world\u2019s best super computer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Central Processing Units,  Computer Hardware,  Computers", 
+    "question": "Do supercomputers use standard motherboards or special ones accommodating multiple CPUs?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Negation Detection,  Natural Language Processing Tools,  Computational Linguistics,  Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "NLP: what's the best method to detect negated contexts in text?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the advantages of Spacy vs NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Disambiguation,  WordNet,  Natural Language Toolkit (NLTK),  Natural Language Processing", 
+    "question": "Natural Language Processing: How can I find out which hypernym for a word suits a sentence best?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Semantic Web,  Sentiment Analysis,  Natural Language Processing,  Database Systems,  Machine Learning", 
+    "question": "What is the best way to persist data in a sentiment analysis project?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Central Processing Units,  Processors,  Computer Hardware,  Computers", 
+    "question": "Why do supercomputers use a large number of processors instead of a single and high-speed processor?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Parallel Computing,  High Performance Computing,  Cloud Computing", 
+    "question": "Can I rent a supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Human Brain,  Neuroscience", 
+    "question": "If human brains are too complex to deconstruct now by supercomputers, can brains of simpler insects and animals be deconstructed by supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can I use NLTK to solve hangman game?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Python (programming language),  Data Science,  Computer Science,  Machine Learning", 
+    "question": "What is the best way to do sentiment analysis with Python? I\u2019m looking for a sentiment analysis API that I can add an emoticon dictionary to. I have no idea how to use NLTK. Can anyone help me with that?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Single Instruction, Multiple Data,  Processors,  Computer Hardware", 
+    "question": "What is the architectural differences between systolic array processors and associative processors which are versions of SIMD architecture?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do computers in 2017 compare with supercomputers in the 80s to early-late 90s?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Apache Mesos,  Computer Cluster,  Data Center Management,  Kubernetes,  Containers (virtualization),  Docker", 
+    "question": "In the future of data center architecture, who will be the main orchestrator/controller of containers - Mesos or Kubernetes? What will be the division of responsibilities?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " DLR,  IronPython,  CPython,  Natural Language Toolkit (NLTK),  NumPy,  Python Libraries,  Python 3,  C# (programming language),  Learning Python,  .NET Framework,  Python (programming language)", 
+    "question": "Why do lots of Python libraries (like NumPy, NLTK, sklearn, etc.) not work on IronPython?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Lexalytics,  Semantria,  Indico,  Sentiment Analysis,  Natural Language Processing,  Application Programming Interfaces (API)", 
+    "question": "Are there any sentiment analysis API demos for short text?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language),  Algorithms,  Machine Learning,  Computer Programming", 
+    "question": "Is Josh Bohde's implementation of Textrank different from the real Textrank algorithm?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Analysis", 
+    "question": "What types of different sentiment analysis methods exist?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Computational Neuroscience,  Central Processing Units,  Processors,  Human Memory,  Human Brain,  Neuroscience,  Computers", 
+    "question": "If our brain were to be put beside a processor (or a couple of processors), how many GHz would it be equivalent to? And what can be the space needed to manufacture a computer similar to the human brain (in performance)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why are GPUs well-suited to deep learning?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is sentiment for Apple stock in February 2016 too negative?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the state of art in Natural Language processing as of 2018?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Semantria,  Social Media Monitoring,  Sentiment Analysis", 
+    "question": "What is the best in class, most accurate brand / social sentiment analytic company today?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Linux,  Operating Systems", 
+    "question": "People say Linux run on 90% of supercomputers, then what about the rest 10%?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What can I do to improve the classification process using Weka or NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Temperature,  The Environment", 
+    "question": "Would the near-absolute-zero temperatures of space make a good environment for future supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Concurrency (computer science),  Data Synchronization", 
+    "question": "How does an MCS lock work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What kind of algorithms do we use for sentiment analysis? Is there any list for the algorithms and about their structure?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  Computer Hardware", 
+    "question": "Why is there no specific unit or standard to identify a GPU's performance capabilities?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What sentiment analysis tools does Balaji Viswanathan 's Zingfin.com use?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "When is building a cluster in the cloud cheaper than building one in my lab for MD simulations?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the essential software used for text analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Processing Tools,  Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language),  How-to Question", 
+    "question": "How do I create an NLP framework/library (like NLTK) from scratch?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Part Of Speech Tagging (natural language processing),  Natural Language Toolkit (NLTK),  Natural Language Processing", 
+    "question": "What is a good POS Tagger other than an NLTK standard one?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are good academic resources to start with on Natural Language Understanding NLU?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Indico,  Open APIs,  Text Mining,  Semantic Web,  Sentiment Analysis,  Natural Language Processing,  Application Programming Interfaces (API),  Analytics", 
+    "question": "What is the best text analytics API and service?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Bulk Synchronous Parallel Computing", 
+    "question": "What is BSP (Bulk Synchronous Parallel)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Mongolia,  Culture of China,  Chinese Ethnicity and People", 
+    "question": "Why anti-Chinese sentiment is strong and endemic in Mongolia?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Feature Mining,  Data Mining, Opinion Mining, Natural Language processing,Sentime,  Opinion Mining,  Automatic Summarization,  Summarization,  Feature Extraction,  Sentiment Analysis,  Natural Language Processing", 
+    "question": "Are there any free APIs for feature based opinion mining and summarization?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Slang,  Natural Language Processing,  Word Definitions, Terminology, and Jargon", 
+    "question": "Are slang and jargon taken into account in sentiment analysis? If so, how?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is Christmas just a capitalist consumerist ploy based on a fake sentimentality?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some beginner-friendly sentiment analysis tools?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Bulk Synchronous Parallel Computing: How does BSP model memory size?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the difference between concurrency and parallelism?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is GPU binning pass?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What modern computing device, say from the last 20 years, is equivalent in performance to the Cray-1 Supercomputer in FLOPS?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Experiences in Life", 
+    "question": "Do you own a supercomputer? What is it like to own one?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Text Mining,  Sentiment Analysis,  Natural Language Processing,  Data Analysis,  Machine Learning,  Existence Question", 
+    "question": "Is there a stop word list specifically designed for sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the benefit for the U.S. of extremely fast super computers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Multilingualism,  Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "What is the state-of-the-art technique for multilingual sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Interface to Databases,  AlchemyAPI,  Natural Language Generation,  Natural Language Toolkit (NLTK),  Machine Translation,  Natural Language Processing,  Data Mining,  Database Systems", 
+    "question": "Natural Language Processing: What are some of the best libraries/starting points (in Ruby) for translating an English sentence (question) to an SQL query or NoSQL map-reduce?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Parallel Computing,  High Performance Computing,  Compilers", 
+    "question": "Automatic Parallelization: What are the latest developments in the field of compilers to automatically parallelize sequential programs?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why is Kubernetes beating all other similar tech in popularity like Mesos?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Hypothetically, if we had a supercomputer able to determine every atom interaction in the universe(s), how could destiny or fate not exist?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why did China make their own CPUs for their supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Social Media Analytics,  Sentiment Analysis,  Twitter (product)", 
+    "question": "Which tools I could use to analyse content from large number of tweeter accounts publicly published (thousands of them) and how much it could cost?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Clustering,  Natural Language Toolkit (NLTK),  Cluster Analysis,  Natural Language Processing,  Python (programming language)", 
+    "question": "What are some efficient methods of clustering sentences that mean the same?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What is subjective sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Polarized Light,  14th Dalai Lama,  Tibetan Buddhism,  Sentiment Analysis,  Tibet,  Influential People,  Buddhism,  China,  Religion", 
+    "question": "Why are opinions on Dalai Lama so polarized?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  China,  The United States of America", 
+    "question": "Can the USA overtake China in the supercomputer race with her 200 petaflops Summit?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  China", 
+    "question": "How does China successfully developing a 93 petaflop supercomputer with homegrown chips affect the global chip industry?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can I use my GPU for accelerated computing, like to speed up a specific program or task?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Which algorithms can not be parallelized?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "To execute the process on multiple cores parallelly, which one is efficient the cluster module of Node.js or goroutine of GoLang?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "How to make a Lexicon dictionary based Twitter sentiment analysis program in Python?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiments,  Tennessee (state),  Sentiment Analysis", 
+    "question": "Does the anti Tennessee sentiment exist?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some of the challenges to creating an accurate sentiment analysis tool?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Overclocking,  Computer Hardware Performance,  GPU Computation,  Graphics Processing Unit,  NVIDIA,  Central Processing Units,  Processors,  Computer Science,  Computer Hardware,  Computers", 
+    "question": "Is overclocking safe? If it is, why don't CPUs and GPU's run at the overclocking speeds out of the box?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the minimum training dataset size to train a sentiment analysis classifier (social media corpus)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Prime Numbers", 
+    "question": "How much time would it take for a supercomputer to count till the largest prime number found so far?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Load Balancing", 
+    "question": "How does load balancing work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supervised Learning,  Text Mining,  Sentiment Analysis,  Classification (machine learning),  Artificial Neural Networks,  Artificial Intelligence,  Machine Learning", 
+    "question": "What are the best supervised learning algorithms for sentiment analysis in text? I want to do text analysis to determine whether a news item is positive or negative for a given subject.", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is cluster computing dead?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Named Entity Recognition,  Natural Language Toolkit (NLTK),  Natural Language Processing,  Machine Learning,  List Question", 
+    "question": "What are some ways to train a classifier to perform Named Entity Recognition using custom data?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some good sentiment analysis software/web resource?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What industries could most benefit from Sentiment Analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the difficulties in using NLTK for Python?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computer Science,  Computer Hardware,  Computers", 
+    "question": "What happens to outdated supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Tweets,  Natural Language Processing,  Twitter (product),  How-to Question", 
+    "question": "How can I use nltk.vader to get the sentiments of tweets?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What does an advanced sentiment analysis system do?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Graphics Processing Unit,  NVIDIA,  Graphics Cards,  Computer Hardware,  Personal Question", 
+    "question": "Why does my GPU have these weird white lines?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Advanced Micro Devices (company),  Central Processing Units,  Processors,  Computer Hardware", 
+    "question": "Is AMD building the world's fastest supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is your review of Seven Concurrency Models in Seven Weeks: When Threads Unravel?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Which is the first paper on sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Alteryx,  RapidMiner,  Sentiment Analysis,  Analytics,  Data Analysis", 
+    "question": "Which is better, RapidMiner or Alteryx?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some of the best ways to perform a sentiment analysis on Twitter data using R? My Professor asked me to implement some more advanced ML algorithms for the classification. Can someone suggest the best approach I should take?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Stanford Parser,  Coreference Resolution,  Natural Language Toolkit (NLTK),  Parsers,  Natural Language Processing", 
+    "question": "Can NLP along with NLTK or Stanford Parser or anything open source help me get the particular noun or noun phrase to which some pronoun is referring?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "In Text Classification: What is the difference between Bag of Words (BOW) and N-Grams?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "Sentiment Analysis: What are the uses for sentiment analysis besides media monitoring, voice-of-customer, ediscovery, ad targeting, and publishing?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is the name of world's first supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Turkey (country)", 
+    "question": "Why doesn't Turkey have any supercomputer ranking in top 500 globally?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing", 
+    "question": "What should I study in order to work on/with supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Text Mining,  Sentiment Analysis,  Natural Language Processing,  Data Analysis,  Machine Learning,  How-to Question", 
+    "question": "How do I start to work on a project on sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Apache Flink,  Who Is X's Competitor?,  Computer Cluster,  Use Case Analysis,  Apache Spark,  Apache Hadoop", 
+    "question": "Are Spark and Stratosphere competitors? Do they cover the same set of use cases?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  TensorFlow (software library),  Graphics Processing Unit,  NVIDIA,  Deep Learning,  Computer Science,  Machine Learning,  Computer Hardware,  Computers,  Computer Programming", 
+    "question": "Why does it take like 3 days to set up using TensorFlow using GPU on a computer even it seems, for experts?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is there something within the Python library or NLTK that I can use to match pairs of words in a list of sentences?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Concurrency (computer science),  Threading (computer science)", 
+    "question": "What are all the synchronization mechanisms, which require hardware support, and what do you lose with pure-software solutions?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are examples of hedge funds that leverage sentiment analysis in their trading models?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Datasets,  Data Mining,  Data Analysis,  Machine Learning", 
+    "question": "What are the beneficial datasets for Twitter sentiment analysis as Data Analysis project?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can I use NLTK.sentiment to get the sentiment of sentences without trainning?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Statistical Natural Language Processing,  Natural Language Toolkit (NLTK),  Chinese Characters,  Natural Language Processing,  Chinese (language),  Algorithms", 
+    "question": "Is there a way / Are there algorithms for dividing Chinese characters into radicals?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing", 
+    "question": "Which is the best free or paid tool for tracking people sentiments?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I findout skills and experience in resume using NLTK and Python?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Computers", 
+    "question": "World's best super computer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  2016 US Presidential Campaign and Election,  Investing in the Stock Market,  Trump-Pence 2016,  Stocks (finance),  Donald Trump (politician, business person),  Investing,  Politics of the United States of America", 
+    "question": "How has Donald Trump's campaign's success impacted public investor sentiment / the stock market?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computers", 
+    "question": "How does the world's fastest supercomputer Tianhe-2 work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Does sentiment analysis work as a trading strategy in financial markets?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Advanced Micro Devices (company),  Graphics Processing Unit,  NVIDIA,  Graphics Cards,  Central Processing Units,  Processors,  Computer Science,  Computer Hardware,  Computers", 
+    "question": "Is the single core performance of a GPU (Let's Say nVidia 2080) comparable to the single core performance on a modern CPU?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What are the techniques for using sentiment analysis in twitter?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "Why do corporate marketers in particular overvalue sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Topic Models,  Wikipedia Editing,  Wikipedia Community,  Natural Language Processing,  Wikipedia,  Python (programming language),  Machine Learning", 
+    "question": "What is the best way to perform TF-IDF on wikipedia pages from sentences so that I will get a title from the most relevant page?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How is Business Intelligence affecting marketing decisions during the Digital Revolution?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Personal Computing Hardware,  Graphics Processing Unit,  Central Processing Units,  Processors,  Personal Computers,  PC Gaming ,  Laptops,  Computer Hardware,  Computers", 
+    "question": "When you are upgrading your PC, do you prioritize your CPU or your gpu?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What does \"The higher the number of processors used in a parallel program, the larger the influence of serial code regions on the performance\" mean?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Algorithms,  Machine Learning", 
+    "question": "In sentiment analysis how can I find; which tool use which algortihm(s)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Has anyone used NLTK to extract noun phrase embedded in web page content? How much work does it take to write a NLTK code for extracting noun phrase from web page? Also, do I need to train it in order to extract noun phrase from text in English. Can I use the default module without any training. Thanks.", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentimental,  Sentiment Analysis,  Emotions,  Survey Question", 
+    "question": "What is the most expensive/sentimental thing you have accidentally thrown away?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the most important distributed data structures?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Philosophy,  Problem Solving", 
+    "question": "Could we make a supercomputer that could solve all the problems of philosophy?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I improve accuracy in this text categorization problem? I\u2019m using Scikit-Learn with NLTK, but could only get around 62% using SVM/SVC, Bayes. The dataset has around 1 million rows, and I\u2019m not able to use all of it because of memory errors.", 
+    "answers": ""
+  }, 
+  {
+    "topics": " TextBlob,  Sentiment Analysis,  R (programming language),  Python (programming language)", 
+    "question": "Which is the best sentiment analysis package, sentimentr (R) or TextBlob (Python)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Silesia,  Sentiments,  Culture of Germany,  Sentiment Analysis,  Historical Germany,  German Ethnicity and People,  German (language),  Germany", 
+    "question": "What is the general German sentiment towards Silesia?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supervised Learning,  Sentiment Analysis,  Natural Language Processing,  Data Mining,  Machine Learning", 
+    "question": "How is sentiment analysis useful for company?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Central Processing Units,  Computer Science", 
+    "question": "What is the CPUs number / GPUs number in supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Multiple Instruction, Multiple Data,  Instructions per Clock,  Processor Architecture,  Parallel Computing,  Computer Architecture,  Central Processing Units,  Computer Science", 
+    "question": "How could a CPU execute more than one instruction per clock cycle?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Tweets being really small in size, is there any step-by-step tutorial to classify tweets into 4/5 categories (i.e. not the binary classification)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Natural Language Processing,  Python (programming language),  Programming Languages,  Computer Programming", 
+    "question": "How can I extract keywords from a document using NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Super Computing,  The Arctic,  High Altitude,  Supercomputers,  High Performance Computing,  Altitude,  Sustainable Technology,  Energy (physics),  Computer Science,  Computers,  Technology", 
+    "question": "Why do we not build supercomputers in cold areas, such as above the arctic circle or high altitude regions? Would it not be cheaper to use the already cool environment to cool the computers and avoid energy-consuming air conditioning?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Datasets", 
+    "question": "Which are the best services to get an Arabic sentiment data set annotated from?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "Does sharpNLP supports sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Does NLTK's Vader perform sentiment analysis better than a data trained model?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is there a sales tool that can write the copy of a cold e-mail using an article and a bio of the recipient?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I develop a grammar correcting program using NLP techniques?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I find out semantic orientation of an adjective using NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Natural Language Toolkit (NLTK),  Parse Platform (cloud backend),  .csv (file extension),  Python (programming language),  Existence Question,  Computer Programming", 
+    "question": "Is there a way to parse a CSV file with NLTK such that analyses are done on each cell, as well on the entire row of text?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "I need to classify sentences as: positive, negative, neutral, something positive or something negative.These sentences are labeled reviews of movies. What are some suggestions on how to model this set of data and what are the techniques and algorithms that can exploit? Can anyone give me ideas of what techniques work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Who are the leading providers of sentiment analysis for social media data, and which companies use them versus developing their own technology?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What is an efficient NLP library or algorithm, for finding keywords in a text (any language)?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Corpus Linguistics,  Computational Linguistics,  Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "Would it be possible for an undergraduate like me to create a sentiment analysis program?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Data Mining,  Data Analysis", 
+    "question": "Is sentiment analysis commonly used?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "Where do I get data set in paper \"Building a General Purpose Cross-Domain Sentiment Mining Model\"?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What is the best way to sort a list of comments to different groups depending on their context? Do we need sentiment analysis for it?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Can GTX GPUs ray trace effectively?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the best Sentiment Analysis tutorials out there?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Quantum Computing,  Computers", 
+    "question": "Why should we care about exaflop speed supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Chess Strategies,  Quantum Computing,  Mathematics and Algorithms,  Chess,  Algorithms", 
+    "question": "How much computing power is required to brute-force all the possible outcomes of a chess game?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do supercomputers from the 1990's compare with consumer laptops of the 2010's?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How does a concurrency bug differ from other Go software bugs?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Nathan Stanish (Quora User),  Sentiment Analysis,  Survey Question", 
+    "question": "What's your opinion of Nathan Stanish?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are some frequently asked questions about Sentiment Analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Machine Learning", 
+    "question": "What is the best way to find sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing", 
+    "question": "What are the features of a supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Usf-data-viz2016,  Sentiment Analysis,  San Francisco", 
+    "question": "What is San Francisco's sentiment?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Theses and Dissertations,  Data Mining,  Machine Learning,  College Advice", 
+    "question": "Is sentiment analysis a good idea for a graduation thesis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How does CallMiner work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What other NLP/text analysis packages are available in Python, besides NLTK?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is it good to use superclocked Titan X GPU for training deep neural networks? Is the superclocked GPU as stable as normal one?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis", 
+    "question": "What is the step by step procedure of sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " GPU Computation,  Field Programmable Gate Arrays (FPGAs),  Data Centers,  Graphics Processing Unit,  Processors", 
+    "question": "I've been told FPGAs are slower than CPUs/GPUs, and if so, why would FPGAs be used for high-speed servers and search engines like Bing?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the advantages of using an external GPU with your computer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How can a super computer ensure that its continues to work if a power failure occurs?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How do I find word similarity for each words in file?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  German Ethnicity and People,  World War II,  Military History and Wars ,  History", 
+    "question": "When did anti-German sentiment first noticeably subside in Europe post WW2?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Analysis,  Twitter (product),  Data Science", 
+    "question": "What is Twitter sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  High Performance Computing,  Computer Science,  Computers,  Smartphones", 
+    "question": "Is it true that today's smartphones have more computing power than early supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Self Educated,  Sentiment Analysis,  Abraham Lincoln,  History of the United States of America,  Law,  Education", 
+    "question": "Where has the sentiment for the self educated man gone?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How does a GPU work?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Where will I get the database/corpus which contains sentences that are classified into following emotion : 1) happy 2) sad 3) angry 4) surprise 5) disgust 6) neutral?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Go (programming language): What happens when a goroutine blocks?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Supercomputers,  Bitcoin Mining,  Virtual Currencies,  Bitcoin,  Cryptocurrencies", 
+    "question": "What happens if a supercomputer mines bitcoin?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "OpenMp vs Intel Threading Building Blocks?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How is deep learning used in sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Private Keys,  Decryption,  Supercomputers,  High Performance Computing,  Encryption,  Cryptography,  Bitcoin,  Cryptocurrencies", 
+    "question": "How does a supercomputer decrypt the private key from a public BTC address? Is that worth to do?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Do you think I could determine the shortest distance between 30 random US cities\u2014connecting all 30\u2014in a contest with the fastest supercomputer?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Rasa NLU,  SpaCy (spacy.io),  Natural Language Toolkit (NLTK),  Programming Libraries,  Bots (software),  Natural Language Processing,  Customer Service,  Artificial Intelligence,  Machine Learning", 
+    "question": "Which library is better for natural language processing (NLP) for a customer service (for a university) purpose chatbot?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why we use multiple processors in supercomputer instead of one powerful processor?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is sentiment analysis a good topic for an MS thesis? What are the hot topics in this area?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "How is performance optimized with parallel computing and multiprocessing?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the differences between the rule-based approach and machine-learning approach in sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Natural Language Processing,  Algorithms,  Machine Learning", 
+    "question": "Which algorithm can I use for Twitter sentiment analysis?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Is NLTK suitable for big data?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the main differences between Spring Cloud Data Flow and Apache Nifi?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Bulk Synchronous Parallel Computing", 
+    "question": "Bulk Synchronous Parallel Computing: What kinds of BSP algorithms have been developed?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "What are the main current uses of supercomputers?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Sentiment Analysis,  Open Source Software,  Open Source", 
+    "question": "What are the most powerful open source sentiment analysis tools?", 
+    "answers": ""
+  }, 
+  {
+    "topics": " Is There an API for X?,  Application Programming Interfaces (API),  Text Messaging,  Existence Question,  Emotions", 
+    "question": "Is there an API for analyzing the emotion in text?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Why are they still building supercomputers that use processor power when GPU's are so much more efficient?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Where can I find an Natural Language Processing expert to help me build a sentiment analysis engine?", 
+    "answers": ""
+  }, 
+  {
+    "topics": "", 
+    "question": "Was there much anti-Islamic sentiment in America before 9/11 compared with now?", 
+    "answers": ""
+  }
+]
