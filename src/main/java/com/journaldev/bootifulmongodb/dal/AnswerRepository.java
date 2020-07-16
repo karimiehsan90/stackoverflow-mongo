@@ -17,7 +17,7 @@ public interface AnswerRepository extends MongoRepository<Answer, String> , Pagi
 
     public Page<Answer> findAllByUser(String user , Pageable pageable);
     public Page<Answer> findAllByIdIsNotAndUser(String id ,String user , Pageable pageable);
-    public Page<Answer> findAllByQuestion(String question , Pageable pageable);
+    public List<Answer> findAllByQuestion(String question);
 
     public  Answer getById(String id);
 

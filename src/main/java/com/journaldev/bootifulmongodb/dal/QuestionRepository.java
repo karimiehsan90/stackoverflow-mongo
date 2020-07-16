@@ -21,5 +21,5 @@ public interface QuestionRepository extends MongoRepository<Question, String> , 
 
     public Page<Question> findAllByTopicsIsContaining(String[] topic , Pageable pageable);
 
-    public Page<Question> findAll(Pageable pageable);
+    public List<Question> findAll();
 }
