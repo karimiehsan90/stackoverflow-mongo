@@ -1,0 +1,23 @@
+---
+machines:
+  hosts:
+    main:
+      ansible_host: 194.5.188.112
+      ansible_user: admin
+      ansible_sudo_pass: "{{ ansible_ssh_pass }}"
+  vars:
+    prometheus_version: 2.19.2
+    prometheus_repository_url: http://194.5.188.112:8080
+    prometheus_tsdb_path: /var/lib/prometheus
+    prometheus_dir_dest: /opt
+    prometheus_path: /opt/prometheus
+    prometheus_port: 9090
+    prometheus_user: prometheus
+    prometheus_group: prometheus
+    prometheus_jobs:
+      - job_name: node-exporter
+        port: "9100"
+        hosts: "{{ groups['all'] }}"
+
+    grafana_version: 7.0.6
+    grafana_repository_url: http://194.5.188.112:8080
