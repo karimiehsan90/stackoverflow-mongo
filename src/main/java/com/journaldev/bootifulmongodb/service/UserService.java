@@ -24,28 +24,28 @@ public class UserService {
     }
 
     public void sendEmail(String title, String body, String to){
-        JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
-
-        mailSender.setHost("smtp.gmail.com");
-        mailSender.setPort(587);
-        mailSender.setUsername(conf.getSmtp().getUsername());
-        mailSender.setPassword(conf.getSmtp().getPassword());
-
-        Properties javaMailProperties = new Properties();
-        javaMailProperties.put("mail.smtp.starttls.enable", "true");
-        javaMailProperties.put("mail.smtp.auth", "true");
-        javaMailProperties.put("mail.transport.protocol", "smtp");
-        javaMailProperties.put("mail.debug", "true");
-
-        mailSender.setJavaMailProperties(javaMailProperties);
-        MimeMessagePreparator preparator = mimeMessage -> {
-            MimeMessageHelper message = new MimeMessageHelper(mimeMessage);
-            message.setTo(to);
-            message.setFrom(conf.getSmtp().getFrom());
-            message.setSubject(title);
-            message.setBcc(conf.getSmtp().getFrom());
-            message.setText(body, true);
-        };
-        mailSender.send(preparator);
+//        JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
+//
+//        mailSender.setHost("smtp.gmail.com");
+//        mailSender.setPort(587);
+//        mailSender.setUsername(conf.getSmtp().getUsername());
+//        mailSender.setPassword(conf.getSmtp().getPassword());
+//
+//        Properties javaMailProperties = new Properties();
+//        javaMailProperties.put("mail.smtp.starttls.enable", "true");
+//        javaMailProperties.put("mail.smtp.auth", "true");
+//        javaMailProperties.put("mail.transport.protocol", "smtp");
+//        javaMailProperties.put("mail.debug", "true");
+//
+//        mailSender.setJavaMailProperties(javaMailProperties);
+//        MimeMessagePreparator preparator = mimeMessage -> {
+//            MimeMessageHelper message = new MimeMessageHelper(mimeMessage);
+//            message.setTo(to);
+//            message.setFrom(conf.getSmtp().getFrom());
+//            message.setSubject(title);
+//            message.setBcc(conf.getSmtp().getFrom());
+//            message.setText(body, true);
+//        };
+//        mailSender.send(preparator);
     }
 }

@@ -16,13 +16,13 @@ pipeline {
 
         stage('Prepare Env') {
             steps {
-                echo "not implemented"
+                sh "./stackoverflow.sh prepare-env"
             }
         }
 
         stage('Acceptance test') {
             steps {
-                echo "not implemented"
+                sh "./stackoverflow.sh acceptance-test"
             }
         }
 

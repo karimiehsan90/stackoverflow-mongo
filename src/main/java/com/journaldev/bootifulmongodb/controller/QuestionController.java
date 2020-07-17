@@ -103,8 +103,9 @@ public class QuestionController {
     @RequestMapping("/list/page/{num}")
     public ActionResult<List<Question>> showPage(@PathVariable int num){
         ActionResult<List<Question>> result = new ActionResult<>();
-        Page<Question> page = repository.findAll(new PageRequest(num, 5));
-        result.setData(page.getContent());
+        List<Question> questions = repository.findAll();
+        result.setData(questions);
+        result.setSuccess(true);
         return result;
     }
 
@@ -112,9 +113,9 @@ public class QuestionController {
     public ActionResult<QuestionObject> q_page(@RequestParam("id") String id , @RequestParam("page") int pnum){
        ActionResult<QuestionObject> result = new ActionResult<>();
         Question q = repository.getById(id);
-        Page<Answer> answers = answerRepository.findAllByQuestion(id,new PageRequest(pnum,5));
+        List<Answer> answers = answerRepository.findAllByQuestion(id);
         if (q != null){
-            result.setData(new QuestionObject(q,answers.getContent()));
+            result.setData(new QuestionObject(q,answers));
             result.setSuccess(true);
         }else{
             result.setMessage("No Such Question");
